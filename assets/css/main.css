@@ -3562,8 +3562,8 @@ body.landing #page-wrapper {
 }
 
 body.landing #header {
-  background: transparent;
-  /*        background: rgba(0, 0, 0, 0.5);*/
+  /* background: transparent; */
+  background: rgba(0, 0, 0, 0.5);
   box-shadow: none;
   position: absolute;
 }
